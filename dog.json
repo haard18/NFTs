@@ -1,0 +1,9 @@
+{
+    "name":"Beagle",
+    "description":"A very smart Beagle",
+    "image":"https://ipfs.io/ipfs/QmVWvg5F47U6RSdLs9Pu6zCjuyecd5vkCfT5hfYVJfosB3?filename=beag.jpg",
+    "attributes":{
+        "trait_type":"smart",
+        "value":100
+    }
+}
